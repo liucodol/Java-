@@ -12,7 +12,7 @@
  
 
 日志框架出现的历史顺序：
-Log4j  JUL  JCL  slf4j  logback  log4j2
+Log4j 》 JUL 》 JCL 》 slf4j 》 logback 》 log4j2
 
 2. SLF4J的使用
 简单日志门面(Simple Logging Facade For Java)SLF4主要是为了给Java日志访问提供一个标准、规范的API框架，其主要意义在于提供接口，具体的实现可以交由其他日志框架，例如log4j和logback等。当然slf4j自己也提供了功能较为简单的实现，但是一般很少用到。对于一般的Java项目而言，日志框架会选择slf4j-api作为门面，配上具体的实现框架（log4j、logback等），中间使用桥接器完成桥接。
