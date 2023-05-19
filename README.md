@@ -556,6 +556,7 @@ springboot中的日志
 4.	也可以使用log4j2作为日志门面，但是最终也是通过slf4j调用logback
 5.2 SpringBoot日志使用
 1．在springboot中测试打印日志
+
 @SpringBootTest
 class SpringbootLogApplicationTests {
     //声明日志记录对象
@@ -576,6 +577,7 @@ class SpringbootLogApplicationTests {
     }
 }
 2．修改默认日志配置
+
 #指定自定义 logger 对象日志级别
 logging.level.com.lxc = trace
 #指定控制台输出消息格式
@@ -592,6 +594,7 @@ logging.pattern.file=[%-5level] %d{yyyy-MM-dd HH:mm:ss} %c [%thread] ====== %msg
  
 4．使用SpringBoot解析日志配置
 Logback-Spring.xml：由SpringBoot解析日志文件
+
 <?xml version="1.0" encoding="UTF-8" ?>
 <configuration>
 
