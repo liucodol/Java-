@@ -66,7 +66,7 @@ public class Slf4jTest {
         try {
             int i = 1/0;
         }catch (Exception e){
-//            e.printStackTrace();
+	//e.printStackTrace();
             LOGGER.error("error",e);
         }
     }
