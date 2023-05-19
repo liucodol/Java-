@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<configuration>
+
+    <!--
+        配置集中管理属性
+        我们可以直接改属性的 value 值
+        格式：${name}
+    -->
+    <property name="pattern" value="[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} %c %M %L [%thread] --------- %m%n"/>
+
+
+    <!--控制台日志输出的 appender-->
+    <appender name="console" class="ch.qos.logback.core.ConsoleAppender" >
+        <!--控制输出流对象 默认 System.out改为System.err-->
+        <target>System.err</target>
+        <!--日志信息格式配置-->
+        <encoder class="ch.qos.logback.classic.encoder.PatternLayoutEncoder" >
+            <!--开发环境-->
+            <springProfile name="dev">
+                <pattern>${pattern}</pattern>
+            </springProfile>
+            <!--生产环境-->
+            <springProfile name="pro">
+                <pattern>[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} %c %M %L [%thread] xxxxxxxx %m%n</pattern>
+            </springProfile>
+        </encoder>
+    </appender>
+
+    <!--自定义 Logger 对象
+        additivity="false" 自定义 logger 对象是否继承 rootLogger
+    -->
+    <logger name="com.lxc" level="info" additivity="false">
+        <appender-ref ref="console" />
+    </logger>
+
+</configuration>

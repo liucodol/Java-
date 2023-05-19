@@ -1,0 +1,13 @@
+2023-05-13 11:10:00.897 [main] [FATAL]  com.lxc.Log4j2Test - fatal
+ 2023-05-13 11:10:00.897 [main] [ERROR]  com.lxc.Log4j2Test - error
+ 2023-05-13 11:10:00.897 [main] [WARN ]  com.lxc.Log4j2Test - warn
+ 2023-05-13 11:10:00.897 [main] [INFO ]  com.lxc.Log4j2Test - info
+ 2023-05-13 11:10:00.897 [main] [DEBUG]  com.lxc.Log4j2Test - debug
+ 2023-05-13 11:10:00.897 [main] [TRACE]  com.lxc.Log4j2Test - trace
+ 2023-05-13 11:10:07.115 [main] [FATAL]  com.lxc.Log4j2Test - fatal
+ 2023-05-13 11:10:07.115 [main] [ERROR]  com.lxc.Log4j2Test - error
+ 2023-05-13 11:10:07.115 [main] [WARN ]  com.lxc.Log4j2Test - warn
+ 2023-05-13 11:10:07.115 [main] [INFO ]  com.lxc.Log4j2Test - info
+ 2023-05-13 11:10:07.115 [main] [DEBUG]  com.lxc.Log4j2Test - debug
+ 2023-05-13 11:10:07.115 [main] [TRACE]  com.lxc.Log4j2Test - trace
+ 

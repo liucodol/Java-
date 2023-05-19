@@ -1,0 +1,14 @@
+5月 13, 2023 11:11:41 上午 com.lxc.JULTest testLogConfig
+严重: severe
+5月 13, 2023 11:11:41 上午 com.lxc.JULTest testLogConfig
+警告: warning
+5月 13, 2023 11:11:41 上午 com.lxc.JULTest testLogConfig
+信息: info
+5月 13, 2023 11:11:41 上午 com.lxc.JULTest testLogConfig
+配置: config
+5月 13, 2023 11:11:41 上午 com.lxc.JULTest testLogConfig
+详细: fine
+5月 13, 2023 11:11:41 上午 com.lxc.JULTest testLogConfig
+较详细: finer
+5月 13, 2023 11:11:41 上午 com.lxc.JULTest testLogConfig
+非常详细: finest

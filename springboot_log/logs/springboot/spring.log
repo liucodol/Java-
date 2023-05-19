@@ -1,0 +1,10 @@
+[INFO ] 2023-05-15 10:04:34 com.lxc.springboot_log.SpringbootLogApplicationTests [main] ====== Starting SpringbootLogApplicationTests using Java 11.0.9 on DESKTOP-74D2RB8 with PID 11884 (started by Administrator in E:\IdeaProjects\Java日志框架\springboot_log) 
+[DEBUG] 2023-05-15 10:04:34 com.lxc.springboot_log.SpringbootLogApplicationTests [main] ====== Running with Spring Boot v2.5.6, Spring v5.3.12 
+[INFO ] 2023-05-15 10:04:34 com.lxc.springboot_log.SpringbootLogApplicationTests [main] ====== The following profiles are active: dev 
+[INFO ] 2023-05-15 10:04:35 com.lxc.springboot_log.SpringbootLogApplicationTests [main] ====== Started SpringbootLogApplicationTests in 1.83 seconds (JVM running for 2.732) 
+[ERROR] 2023-05-15 10:04:36 com.lxc.springboot_log.SpringbootLogApplicationTests [main] ====== error 
+[WARN ] 2023-05-15 10:04:36 com.lxc.springboot_log.SpringbootLogApplicationTests [main] ====== warn 
+[INFO ] 2023-05-15 10:04:36 com.lxc.springboot_log.SpringbootLogApplicationTests [main] ====== info 
+[DEBUG] 2023-05-15 10:04:36 com.lxc.springboot_log.SpringbootLogApplicationTests [main] ====== debug 
+[TRACE] 2023-05-15 10:04:36 com.lxc.springboot_log.SpringbootLogApplicationTests [main] ====== trace 
+[INFO ] 2023-05-15 10:04:36 com.lxc.springboot_log.SpringbootLogApplicationTests [main] ====== log4j2  info  

@@ -1,0 +1,5 @@
+[ERROR] 2023-05-13 14:31:29.469 com.lxc.logbackTest testQuick 15 [main] error
+[WARN ] 2023-05-13 14:31:29.470 com.lxc.logbackTest testQuick 16 [main] warn
+[INFO ] 2023-05-13 14:31:29.471 com.lxc.logbackTest testQuick 17 [main] info
+[DEBUG] 2023-05-13 14:31:29.471 com.lxc.logbackTest testQuick 18 [main] debug
+[TRACE] 2023-05-13 14:31:29.471 com.lxc.logbackTest testQuick 19 [main] trace

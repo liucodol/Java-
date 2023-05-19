@@ -1,0 +1,50 @@
+[INFO      ]0 com.lxc.Log4jTest.testQuick(Log4jTest.java:24)  2023-05-13 11:33:30.606  hello log4j
+[INFO      ]0 com.lxc.Log4jTest.testQuick(Log4jTest.java:24)  2023-05-13 11:33:30.606  hello log4j
+[FATAL     ]0 com.lxc.Log4jTest.testQuick(Log4jTest.java:28)  2023-05-13 11:33:30.606  fatal
+[FATAL     ]0 com.lxc.Log4jTest.testQuick(Log4jTest.java:28)  2023-05-13 11:33:30.606  fatal
+[ERROR     ]0 com.lxc.Log4jTest.testQuick(Log4jTest.java:30)  2023-05-13 11:33:30.606  error
+[ERROR     ]0 com.lxc.Log4jTest.testQuick(Log4jTest.java:30)  2023-05-13 11:33:30.606  error
+[WARN      ]0 com.lxc.Log4jTest.testQuick(Log4jTest.java:31)  2023-05-13 11:33:30.606  warn
+[WARN      ]0 com.lxc.Log4jTest.testQuick(Log4jTest.java:31)  2023-05-13 11:33:30.606  warn
+[INFO      ]0 com.lxc.Log4jTest.testQuick(Log4jTest.java:32)  2023-05-13 11:33:30.606  info
+[INFO      ]0 com.lxc.Log4jTest.testQuick(Log4jTest.java:32)  2023-05-13 11:33:30.606  info
+[INFO      ]0 com.lxc.Log4jTest.testQuick(Log4jTest.java:24)  2023-05-13 11:38:48.533  hello log4j
+[INFO      ]0 com.lxc.Log4jTest.testQuick(Log4jTest.java:24)  2023-05-13 11:38:48.533  hello log4j
+[FATAL     ]0 com.lxc.Log4jTest.testQuick(Log4jTest.java:28)  2023-05-13 11:38:48.533  fatal
+[FATAL     ]0 com.lxc.Log4jTest.testQuick(Log4jTest.java:28)  2023-05-13 11:38:48.533  fatal
+[ERROR     ]0 com.lxc.Log4jTest.testQuick(Log4jTest.java:30)  2023-05-13 11:38:48.533  error
+[ERROR     ]0 com.lxc.Log4jTest.testQuick(Log4jTest.java:30)  2023-05-13 11:38:48.533  error
+[WARN      ]0 com.lxc.Log4jTest.testQuick(Log4jTest.java:31)  2023-05-13 11:38:48.533  warn
+[WARN      ]0 com.lxc.Log4jTest.testQuick(Log4jTest.java:31)  2023-05-13 11:38:48.533  warn
+[INFO      ]0 com.lxc.Log4jTest.testQuick(Log4jTest.java:32)  2023-05-13 11:38:48.533  info
+[INFO      ]0 com.lxc.Log4jTest.testQuick(Log4jTest.java:32)  2023-05-13 11:38:48.533  info
+[INFO      ]0 com.lxc.Log4jTest.testQuick(Log4jTest.java:24)  2023-05-13 11:39:34.941  hello log4j
+[INFO      ]0 com.lxc.Log4jTest.testQuick(Log4jTest.java:24)  2023-05-13 11:39:34.941  hello log4j
+[FATAL     ]719 com.lxc.Log4jTest.testQuick(Log4jTest.java:28)  2023-05-13 11:39:35.660  fatal
+[FATAL     ]719 com.lxc.Log4jTest.testQuick(Log4jTest.java:28)  2023-05-13 11:39:35.660  fatal
+[ERROR     ]719 com.lxc.Log4jTest.testQuick(Log4jTest.java:30)  2023-05-13 11:39:35.660  error
+[ERROR     ]719 com.lxc.Log4jTest.testQuick(Log4jTest.java:30)  2023-05-13 11:39:35.660  error
+[WARN      ]719 com.lxc.Log4jTest.testQuick(Log4jTest.java:31)  2023-05-13 11:39:35.660  warn
+[WARN      ]719 com.lxc.Log4jTest.testQuick(Log4jTest.java:31)  2023-05-13 11:39:35.660  warn
+[INFO      ]719 com.lxc.Log4jTest.testQuick(Log4jTest.java:32)  2023-05-13 11:39:35.660  info
+[INFO      ]719 com.lxc.Log4jTest.testQuick(Log4jTest.java:32)  2023-05-13 11:39:35.660  info
+[INFO      ]0 com.lxc.Log4jTest.testQuick(Log4jTest.java:24)  2023-05-13 11:40:34.589  hello log4j
+[INFO      ]0 com.lxc.Log4jTest.testQuick(Log4jTest.java:24)  2023-05-13 11:40:34.589  hello log4j
+[FATAL     ]625 com.lxc.Log4jTest.testQuick(Log4jTest.java:28)  2023-05-13 11:40:35.214  fatal
+[FATAL     ]625 com.lxc.Log4jTest.testQuick(Log4jTest.java:28)  2023-05-13 11:40:35.214  fatal
+[ERROR     ]625 com.lxc.Log4jTest.testQuick(Log4jTest.java:30)  2023-05-13 11:40:35.214  error
+[ERROR     ]625 com.lxc.Log4jTest.testQuick(Log4jTest.java:30)  2023-05-13 11:40:35.214  error
+[WARN      ]625 com.lxc.Log4jTest.testQuick(Log4jTest.java:31)  2023-05-13 11:40:35.214  warn
+[WARN      ]625 com.lxc.Log4jTest.testQuick(Log4jTest.java:31)  2023-05-13 11:40:35.214  warn
+[INFO      ]625 com.lxc.Log4jTest.testQuick(Log4jTest.java:32)  2023-05-13 11:40:35.214  info
+[INFO      ]625 com.lxc.Log4jTest.testQuick(Log4jTest.java:32)  2023-05-13 11:40:35.214  info
+[INFO      ]0 com.lxc.Log4jTest.testQuick(Log4jTest.java:24)  2023-05-13 11:41:28.246  hello log4j
+[INFO      ]0 com.lxc.Log4jTest.testQuick(Log4jTest.java:24)  2023-05-13 11:41:28.246  hello log4j
+[FATAL     ]609 com.lxc.Log4jTest.testQuick(Log4jTest.java:28)  2023-05-13 11:41:28.855  fatal
+[FATAL     ]609 com.lxc.Log4jTest.testQuick(Log4jTest.java:28)  2023-05-13 11:41:28.855  fatal
+[ERROR     ]609 com.lxc.Log4jTest.testQuick(Log4jTest.java:30)  2023-05-13 11:41:28.855  error
+[ERROR     ]609 com.lxc.Log4jTest.testQuick(Log4jTest.java:30)  2023-05-13 11:41:28.855  error
+[WARN      ]609 com.lxc.Log4jTest.testQuick(Log4jTest.java:31)  2023-05-13 11:41:28.855  warn
+[WARN      ]609 com.lxc.Log4jTest.testQuick(Log4jTest.java:31)  2023-05-13 11:41:28.855  warn
+[INFO      ]609 com.lxc.Log4jTest.testQuick(Log4jTest.java:32)  2023-05-13 11:41:28.855  info
+[INFO      ]609 com.lxc.Log4jTest.testQuick(Log4jTest.java:32)  2023-05-13 11:41:28.855  info

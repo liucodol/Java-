@@ -1,0 +1,28 @@
+9月 16, 2022 5:30:38 下午 com.lxc.JULTest testLogProperties
+严重: severe
+9月 16, 2022 5:30:39 下午 com.lxc.JULTest testLogProperties
+警告: warning
+9月 16, 2022 5:30:39 下午 com.lxc.JULTest testLogProperties
+信息: info
+9月 16, 2022 5:30:39 下午 com.lxc.JULTest testLogProperties
+配置: config
+9月 16, 2022 5:30:39 下午 com.lxc.JULTest testLogProperties
+详细: fine
+9月 16, 2022 5:30:39 下午 com.lxc.JULTest testLogProperties
+较详细: finer
+9月 16, 2022 5:30:39 下午 com.lxc.JULTest testLogProperties
+非常详细: finest
+5月 13, 2023 11:11:41 上午 com.lxc.JULTest testLogProperties
+严重: severe
+5月 13, 2023 11:11:41 上午 com.lxc.JULTest testLogProperties
+警告: warning
+5月 13, 2023 11:11:41 上午 com.lxc.JULTest testLogProperties
+信息: info
+5月 13, 2023 11:11:41 上午 com.lxc.JULTest testLogProperties
+配置: config
+5月 13, 2023 11:11:41 上午 com.lxc.JULTest testLogProperties
+详细: fine
+5月 13, 2023 11:11:41 上午 com.lxc.JULTest testLogProperties
+较详细: finer
+5月 13, 2023 11:11:41 上午 com.lxc.JULTest testLogProperties
+非常详细: finest
